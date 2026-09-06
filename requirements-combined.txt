@@ -1,0 +1,9 @@
+# Combined demos for examples-kit
+# These demos require BOTH calc-insight-kit and logic-opt-kit
+calc-insight-kit
+logic-opt-kit
+numpy
+matplotlib
+sympy
+scipy
+highspy
